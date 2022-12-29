@@ -128,7 +128,7 @@ table thead th, tbody tr td{
 	display: flex;
 }
 
-.form-group input,
+.form-group input
 .form-group textarea{
 	width: 100%;
 	box-sizing: border-box;
